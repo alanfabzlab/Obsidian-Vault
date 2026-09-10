@@ -22,5 +22,21 @@ else:
 ```
 
 
+## High School Grades
 
 ![](Screenshot%202026-09-10%20at%208.51.55%20a.m..png)
+
+```python
+grade = int(input('Enter your grade: '))
+
+if grade == 9:
+    print('Freshman')
+elif grade == 10:
+    print('Sophomore')
+elif grade == 11:
+    print('Junior')
+elif grade == 12:
+    print('Senior')
+else:
+    print('TBD')
+```
