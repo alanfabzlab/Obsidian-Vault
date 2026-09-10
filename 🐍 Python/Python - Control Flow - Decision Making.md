@@ -1,7 +1,7 @@
 
 ## Instructions
 
-![](Attachments/img-2026-09-10-151125.png)
+![](../Attachments/img-2026-09-10-170436.png)
 
 ## Solution
 
