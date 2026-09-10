@@ -1,5 +1,5 @@
 {
   "useMarkdownLinks": true,
   "attachmentFolderPath": "Attachments",
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "relative"
 }
