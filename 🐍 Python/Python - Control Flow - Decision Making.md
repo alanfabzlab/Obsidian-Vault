@@ -1,7 +1,7 @@
 
 ## Instructions
 
-![Screenshot](Attachments/Captura%20de%20pantalla%202026-09-09%20a%20la(s)%202.07.16%20p.m..png)
+
 
 
 ## Solution
@@ -25,7 +25,7 @@ else:
 
 ## High School Grades
 
-![](Screenshot%202026-09-10%20at%208.51.55%20a.m..png)
+
 
 ## Solution
 
