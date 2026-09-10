@@ -21,3 +21,6 @@ else:
     print('Poor')
 ```
 
+
+
+![](Screenshot%202026-09-10%20at%208.51.55%20a.m..png)
