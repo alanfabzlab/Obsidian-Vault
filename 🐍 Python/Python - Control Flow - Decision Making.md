@@ -1,8 +1,7 @@
 
 ## Instructions
 
-
-
+![](Attachments/img-2026-09-10-151125.png)
 
 ## Solution
 
@@ -43,3 +42,7 @@ elif grade == 12:
 else:
     print('TBD')
 ```
+
+
+## What
+

@@ -20,7 +20,7 @@
                   "state": {
                     "file": "🐍 Python/Python - Control Flow - Decision Making.md",
                     "mode": "source",
-                    "source": false
+                    "source": true
                   },
                   "icon": "lucide-file",
                   "title": "Python - Control Flow - Decision Making"
@@ -159,7 +159,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Vault/🐍 Python/_🐍 Content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,27 +249,26 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "6b82db642dc9a909",
+  "active": "2cdfc95a9e4acb17",
   "lastOpenFiles": [
-    "🐍 Python/Attachments/Screenshot 2026-09-10 at 1.58.55 p.m..png",
-    "🐍 Python/Attachments/Screenshot 2026-09-10 at 1.58.50 p.m..png",
-    "🐍 Python/Attachments/Screenshot 2026-09-10 at 1.57.33 p.m..png",
-    "🐍 Python/Attachments/Captura de pantalla 2026-09-09 a la(s) 2.07.16 p.m..png",
     "🐍 Python/Python - Control Flow - Decision Making.md",
-    "🐍 Python/Attachments/Screenshot 2026-09-10 at 8.51.55 a.m..png",
-    "🐍 Python/Screenshot 2026-09-10 at 8.51.55 a.m..png",
-    "🐍 Python/Captura de pantalla 2026-09-09 a la(s) 2.07.16 p.m..png",
-    "Captura de pantalla 2026-09-09 a la(s) 2.07.16 p.m..png",
-    "Screenshot 2026-09-10 at 8.51.55 a.m..png",
-    "🐍 Python/Attachments",
+    "Attachments/img-2026-09-10-151125.png",
+    "Attachments/Python - Control Flow - Decision Making-2026-09-10-145951.png",
+    "Attachments/Screenshot 2026-09-10 at 2.48.58 p.m..png",
+    "Attachments/Screenshot 2026-09-10 at 2.28.13 p.m..png",
+    "Attachments/Screenshot 2026-09-10 at 2.28.20 p.m..png",
+    "🐍 Python/Attachments/Screenshot 2026-09-10 at 2.31.57 p.m..png",
+    "🐍 Python/Attachments/Screenshot 2026-09-10 at 2.30.59 p.m..png",
+    "🐍 Python/Attachments/Screenshot 2026-09-10 at 2.26.58 p.m..png",
+    "🐍 Python/Attachments/Screenshot 2026-09-10 at 2.24.24 p.m..png",
     "🐍 Python/_🐍Content.md",
+    "🐍 Python/Attachments/Screenshot 2026-09-10 at 1.58.55 p.m..png",
+    "Attachments",
     "🐍 Python",
     "_🐍Content.md",
     "Attachments",
     "Python - Control Flow - Decision Making.md",
     "Obsidian Vault/🐍 Python/Python - Control Flow - Decision Making.md",
-    "Obsidian Vault/🐍 Python/Attachments/Screenshot 2026-09-10 at 8.51.55 a.m..png",
-    "Obsidian Vault/🐍 Python/Attachments/Captura de pantalla 2026-09-09 a la(s) 2.07.16 p.m..png",
     "Obsidian Vault/🐍 Python/_🐍Content.md",
     "Obsidian Vault/🐍 Python/Attachments"
   ]
