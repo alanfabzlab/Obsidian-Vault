@@ -74,5 +74,5 @@ A dynamic knowledge map designed to transform Python syntax into functional proj
 
 ## 📌 Related Exercises Log
 
-* [[Python - Control Flow - Decision Making]]
+* [[Python - (if,elif,else) - Examples]]
 * [[Python - Basics - Currency Converter]]
