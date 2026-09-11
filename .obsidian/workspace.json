@@ -19,7 +19,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "🐍 Python/Python - Control Flow - Decision Making.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": true
                   },
                   "icon": "lucide-file",
@@ -159,6 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🐍 Python/Python - Control Flow - Decision Making.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +250,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "2cdfc95a9e4acb17",
+  "active": "6b82db642dc9a909",
   "lastOpenFiles": [
     "🐍 Python/Python - Control Flow - Decision Making.md",
     "Attachments/img-2026-09-10-170436.png",
