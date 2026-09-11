@@ -1,7 +1,7 @@
 
 ## Instructions
 
-![](Attachments/img-2026-09-10-170436.png)
+![](z_attachments/img-2026-09-10-170436.png)
 
 ## Solution
 
@@ -26,7 +26,7 @@ else:
 
 ## High School Grades
 
-![](Attachments/img-2026-09-11-140432.png)
+![](z_attachments/img-2026-09-11-140432.png)
 
 ## Solution
 
@@ -50,7 +50,7 @@ else:
 
 ## Snapple Facts
 
-![](Attachments/img-2026-09-11-140458.png)
+![](z_attachments/img-2026-09-11-140458.png)
 
 ## Solution
 
@@ -80,7 +80,7 @@ else:
 
 ## Seasons of the Year
 
-![](Attachments/img-2026-09-11-141209.png)
+![](z_attachments/img-2026-09-11-141209.png)
 
 ## Solution
 
@@ -106,9 +106,9 @@ else:
 
 ## Planet Weights
 
-![](Attachments/img-2026-09-11-141646.png)
+![](z_attachments/img-2026-09-11-141646.png)
 
-![](Attachments/img-2026-09-11-141705.png)
+![](z_attachments/img-2026-09-11-141705.png)
 
 ## Solution
 

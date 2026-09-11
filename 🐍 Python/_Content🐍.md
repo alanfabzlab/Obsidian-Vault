@@ -1,3 +1,4 @@
+
 # 🐍 Python: The Art of Algorithmic Craft (MOC)
 
 A dynamic knowledge map designed to transform Python syntax into functional projects, architectures, and systems.
